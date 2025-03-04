@@ -83,7 +83,7 @@ Student added successfully!
 ---
 
 ## 📎 GitHub Repository
-🔗 [Your GitHub Repository Link Here]
+🔗 [[Your GitHub Repository Link Here]](https://github.com/pulkit100804/Java_Assignment_3)
 
 ---
 
