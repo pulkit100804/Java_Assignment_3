@@ -94,5 +94,4 @@ Student added successfully!
 
 ---
 
-### ✅ Made with 💙 in Java 🚀
 
